@@ -13,7 +13,7 @@ Use log4j
 How to use:
 
  1. Install Maven configuration environment variables
- 2. git clone 
+ 2. git clone https://github.com/Thames18/Selenium
  3. You can also use Jenkins directly to trigger mvn test
 
 Roadmap
