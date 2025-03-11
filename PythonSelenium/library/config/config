@@ -1,0 +1,8 @@
+#Configure database
+[database]
+dbhost=127.0.0.1
+dbport=3306
+dbname=test
+dbuser=thames
+dbpassword=test
+dbcharset=utf8
